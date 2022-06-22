@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura Villarroel</h1>
 <h3 align="center">I am a FullStack Web Developer and Mechanical Engineer I characterize myself as a person who is governed by the values of honesty, trust and respect. I stand out for my ability to solve problems and thoroughly investigate something until I understand it and be able to solve it, I constantly seek to improve and learn👨‍💻. I am very good at teamwork and I am always willing to help others so that they can achieve their goals, I am very passionate about teaching and I am very happy to see the progress of my colleagues. 🙋‍♂️</h3>
 
-- 📫 How to reach me **lauramar.villarroel@gmail.com**
+- 📫 How to reach me **laura.villarroel.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
